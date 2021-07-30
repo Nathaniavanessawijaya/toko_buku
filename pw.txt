@@ -1,4 +1,0 @@
-Username dan Password
-
-Username:admin
-password:admin
